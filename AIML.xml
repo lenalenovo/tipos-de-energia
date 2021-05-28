@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+<category>
+  <pattern>
+     O que significa energia limpa?
+  </pattern>
+
+  <template>
+    Energia limpa é aquela que não libera, durante seu processo de produção ou consumo, resíduos ou gases poluentes geradores do efeito estufa e do aquecimento global. As fontes de energia que liberam quantidades muito baixas destes gases ou resíduos também são consideradas fontes de energia limpa. <br>
+    Acesse aqui para mais informações: <a href="https://www.enersolar.eng.br/noticias/a-importancia-da-energia-limpa/#:~:text=Energia%20limpa%20%C3%A9%20aquela%20que,consideradas%20fontes%20de%20energia%20limpa." target="_blank"> clique aqi </a>
+  </template>
+
+</category>
+
+<category>
+  <pattern>
+     Tipos de energia limpa
+  </pattern>
+
+  <template>
+    As fontes de eletricidade limpa são: energia hidráulica, energia eólica, energia solar, energia maremotriz e energia geotérmica, enquanto a principal energia limpa substituta do petróleo é a energia da biomassa. <br>
+    Acesse aqui para mais informações: <a href="https://www.portalsolar.com.br/energia-limpa-fontes-de-eletricidade-limpas#:~:text=As%20fontes%20de%20eletricidade%20limpa,%C3%A9%20a%20energia%20da%20biomassa." target="_blank"> acesse aqui </a>
+  </template>  
+
+</category>
+
+<category> 
+  <pattern>
+     O que e energia suja causa?
+  </pattern>  
+        
+  <template>
+   Causam poluição ambiental, principalmente do ar, gerando problemas de saúde nas pessoas. Os habitantes de grandes centros urbanos são os que mais sofrem estas consequências. - São os principais causadores do aquecimento global do planeta e das mudanças climáticas.  <br>
+   Para saber mais: <a href="https://www.suapesquisa.com/energia/energia_suja.htm#:~:text=Desvantagens%20do%20uso%20das%20fontes%20de%20energia%20suja%3Atext=%2D%20Causam%20polui%C3%A7%C3%A3o%20ambiental%2C%20principalmente%20do,planeta%20e%20das%20mudan%C3%A7as%20clim%C3%A1ticas." target="_blank"> acesse aqui </a>
+  </template> 
+
+</category>
+
+<category>
+  <pattern>
+     O que é ODS?
+  </pattern>
+
+  <template>
+      Os Objetivos de Desenvolvimento Sustentável são uma coleção de 17 metas globais, estabelecidas pela Assembleia Geral das Nações Unidas. <br>
+      Fonte: <a href="https://pt.wikipedia.org/wiki/Objetivos_de_Desenvolvimento_Sustent%C3%A1vel" target="_blank"> Wikipédia </a>
+  </template>
+
+</category>  
+
+<category>
+  <pattern>
+     Qual é a ODS 7?
+  </pattern>   
+
+  <template>
+     O ODS 7 visa assegurar o acesso a uma energia acessível, segura, sustentável e moderna para todos. Para tal, é necessário dobrar a taxa mundial de melhoria da eficiência energética e aumentar consideravelmente a porcentagem de energias renováveis no mix energético. <br>
+     Fonte: <a href="https://www.iberdrola.com/sustentabilidade/comprometidos-objetivos-desenvolvimento-sustentavel/ods-7-energias-renovaveis-e-acessiveis#:~:text=O%20ODS%207%20visa%20assegurar,energias%20renov%C3%A1veis%20no%20mix%20energ%C3%A9tico." target="_blank"> acesse aqui </a>
+  </template>
+
+</category>
+
+
+
+
+</aiml>
